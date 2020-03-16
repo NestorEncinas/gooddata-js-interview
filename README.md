@@ -22,6 +22,7 @@ I personally like to have the differents parts of the project separated in diffe
 
 1. Create a clone of the repository
 2. Run `cd gooddata-js-interview`.
-3. Run `yarn install`.
-4. Run `yarn start`.
-5. Project should be ready on
+3. Run `git checkout feat/final-code-nestor-encinas
+4. Run `yarn install`.
+5. Run `yarn start`.
+6. Project should be ready on localhost:3000
